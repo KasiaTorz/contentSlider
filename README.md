@@ -1,5 +1,5 @@
-#  H1 contentSlider
-# H3 minimalistic content slidebar for beauty corner
+#  <H1> contentSlider</H1>
+# <H3> minimalistic content slidebar for beauty corner</H3>
 ====
 
 
