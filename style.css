@@ -34,4 +34,5 @@ top: 45%;
 .slider-control{
     margin: 0%;
     position: absolute;
+    z-index: 2;
 }
