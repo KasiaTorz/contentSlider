@@ -41,3 +41,6 @@ top: 45%;
     display: flex;
 }
 /*button css*/
+ .prev-b, .next-b {
+ background-color: aqua;
+}
